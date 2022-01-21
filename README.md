@@ -1,0 +1,2 @@
+# Jaundice-Prediction
+Files related to the project for jaundice prediction
